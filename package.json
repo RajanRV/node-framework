@@ -1,0 +1,36 @@
+{
+  "name": "firebasenode",
+  "version": "1.7.0",
+  "description": "firebasenode makes well structured api management and makes firebase implementation easy.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon",
+    "start": "node index"
+  },
+  "keywords": [
+    "firebase",
+    "node",
+    "Firebase Node Framework",
+    "Framework",
+    "Fireabase-node",
+    "Rajan",
+    "Rajan Vasani"
+  ],
+  "author": "Rajan",
+  "license": "ISC",
+  "dependencies": {
+    "busboy": "^0.3.1",
+    "cors": "^2.8.5",
+    "crypto-js": "^3.1.9-1",
+    "detect-port": "^1.3.0",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "express-handlebars": "^3.1.0",
+    "firebase": "^7.5.0",
+    "firebase-admin": "^8.8.0",
+    "firebase-tools": "^7.9.0",
+    "morgan": "^1.9.1",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {}
+}
